@@ -1,0 +1,19 @@
+body{
+    background-color:yellow;
+}
+table{
+    padding: 10px;
+    border:solid;
+}
+.first{
+    color: crimson;
+    background-color: black;
+    padding-left: 30px;
+}
+#second{
+    color: rgb(0, 0, 253);
+}
+<form>
+    <label> Email </label>
+    <input type="email" name="email" id="em">
+    <input
